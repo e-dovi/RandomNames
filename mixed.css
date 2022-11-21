@@ -1,0 +1,19 @@
+  #try {
+    position: relative;
+    right: -650px;
+  }
+  #name{
+    padding: 70px;
+    border: 20px;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+    background-color: lavender;
+    display: none;
+  }
+  #try-again{
+    display:none;
+    position: relative;
+    right: -650px;
+  }
